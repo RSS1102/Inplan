@@ -1,6 +1,6 @@
-### 项目计划大纲
+### Project plan outline(项目计划大纲)
 
-1. **浏览器原理**
+1. 《浏览器原理》(a book)
 2. blog网站。
    - [blogs-vue3](https://github.com/RSS1102/blogs-vue3)
    - [blog-go](https://github.com/RSS1102/blog-go)
@@ -18,9 +18,14 @@
    - [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
    
 6. theme
-   - *~~[vue-dark-switch](https://github.com/dishait/vue-dark-switch)~~*
+   >- [vue-dark-switch](https://github.com/dishait/vue-dark-switch) 
    
 7. [td-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
 
 8. [musicbox](https://github.com/holy-two/musicbox)
 
+---
+### Meaning of some signs:
+1. > It's done
+2.  ~~This is a temporary abandonment~~
+3. There are no links, only ideas
