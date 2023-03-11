@@ -18,7 +18,7 @@
    - [ ] [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
    
 6. components
-   - [ ] [vue-dark-switch](https://github.com/dishait/vue-dark-switch) 
+   - [x] [vue-dark-switch](https://github.com/dishait/vue-dark-switch) 
    
 7. mobile
    - [ ] [td-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
