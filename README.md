@@ -15,6 +15,7 @@
 
 5. electron
    - [ ] [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
+   - [ ] [electron-vite/docs](https://github.com/electron-vite/docs)
    - [ ] [electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)
    
 6. components
@@ -25,8 +26,10 @@
 
 8. other
    - [ ] [musicbox](https://github.com/holy-two/musicbox)
+   - [ ] [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
 
 ---
+
 ### Meaning of some signs:
 1. 🔲 Inplan
 2. ✅ Completed
