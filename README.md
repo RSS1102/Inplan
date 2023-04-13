@@ -9,7 +9,7 @@
 3. shuimo
    - [ ] [shuimo-ui](https://github.com/janghood/shuimo-ui)
    - ⭕  shuimo-icon
-   - [ ] shuimo-canvas
+   - ⭕ shuimo-canvas
 
 4. [react-component](https://github.com/RSS1102/react-component)
 
@@ -19,14 +19,16 @@
    - ❌ ~~[electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)~~
    
 6. components
-   - [vue-dark-switch](https://github.com/dishait/vue-dark-switch) 
-       - ✅ https://github.com/dishait/vue-dark-switch/issues/1
+    - [x] [vue-dark-switch](https://github.com/dishait/vue-dark-switch) 
+      - ✅ https://github.com/dishait/vue-dark-switch/issues/1
 
 7. mobile
    - [ ] [td-mobile-vue](https://github.com/Tencent/tdesign-mobile-vue)
 
 8. Tencent
    - [ ] [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+   - [ ] [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next)    
+     - [ ] https://github.com/Tencent/tdesign-vue-next/issues/2712
 
 9. other
    - [ ] [musicbox](https://github.com/holy-two/musicbox)
