@@ -16,6 +16,7 @@
 5. electron
    - [ ] [electron-vite-react](https://github.com/electron-vite/electron-vite-react)
    - [ ] [electron-vite/docs](https://github.com/electron-vite/docs)
+     - ✅https://github.com/electron-vite/docs/issues/1
    - ❌ ~~[electron-markdown-notepad](https://github.com/RSS1102/electron-markdown-notepad)~~
    
 6. components
