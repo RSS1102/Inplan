@@ -35,8 +35,8 @@
    - [ ] [musicbox](https://github.com/holy-two/musicbox)
 
 10. antd
-   - [ ] [ant-design](https://github.com/ant-design)
-       - [ ]  https://github.com/ant-design/ant-design/issues/42328
+   - ❌ [ant-design](https://github.com/ant-design)
+       - ❌  https://github.com/ant-design/ant-design/issues/42328
 
 
 ---
