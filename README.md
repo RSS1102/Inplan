@@ -32,7 +32,7 @@
        - [ ] https://github.com/Tencent/tdesign-vue-next/issues/2712
 
 9. other
-   - [ ] [musicbox](https://github.com/holy-two/musicbox)
+   - [x] [musicbox](https://github.com/holy-two/musicbox)
 
 10. antd
    - ❌ [ant-design](https://github.com/ant-design)
